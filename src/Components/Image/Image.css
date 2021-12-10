@@ -1,0 +1,36 @@
+/* .aspect{
+    aspect-ratio: attr(3000)/attr(600);
+} */
+.card-div{
+    overflow: hidden;
+ }
+ .card-div img{
+     transition: 1.3s ease;
+ }
+ .card-div:hover img{
+    transform: scale(1.3)
+ 
+     
+ }
+ .modal-div{
+     /* --bs-aspect-ratio: 25% ;  */
+     
+     /* max-width: 90%vw; */
+     overflow: hidden;
+   
+     /* height: 346px;
+     background-size: contain; */
+ }
+ .modal-div img{
+     transition: 1.3s ease;
+     /* min-height: 384px;
+     max-height: 750px;
+     */
+ }
+ .modal-div:hover img{
+     margin-top: 10%;
+    transform: scale(1.2)
+ 
+     
+ }
+ /*  */
